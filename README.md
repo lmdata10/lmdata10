@@ -1,68 +1,63 @@
-### <div align="center">I'm LM, a Data Aspirant 👨‍💻 currently working remotely as an SME for Splunk Change Management Team 🚀</div>  
+# Hello! I'm LM👋
+
+### Change Management | Aspiring Data Analyst | Passionate About Data-Driven Decisions
+
+I'm a data enthusiast currently preparing for data analyst roles, with a long-term goal to transition into data engineering. My mission is to help organizations make impactful, data-driven decisions by analyzing, processing, and delivering insights from data.
+
+## 🔭 What I'm Working On
+
+- **Data Analytics**: Enhancing my skills in data analysis using tools like Python, SQL, and Excel.
+- **Visualization**: Learning how to present data insights using Power BI and Tableau.
+- **Cloud Foundations**: Exploring the basics of cloud platforms (AWS, Azure) and tools (Docker, Kubernetes) to scale data infrastructure.
+- **Python and SQL**: Improving my Python scripting and SQL query optimization skills for more efficient data processing.
+
+## 🚀 My Future Goals
+
+- **Data Engineering**: Transition into data engineering, focusing on designing, building, and maintaining data pipelines.
+- **Cloud Technologies**: Gain in-depth knowledge of cloud platforms and how they integrate with data workflows.
+- **Big Data Tools**: Learn tools like Apache Spark, Kafka, and Hadoop to handle large-scale data.
+- **Automation**: Automate data extraction, transformation, and loading (ETL) processes.
+
+## 📚 What I'm Learning
+
+- **Data Analysis**: Advanced Excel, Python (Pandas, NumPy), and SQL.
+- **Cloud Basics**: AWS and Azure fundamentals, Linux, and version control (Git/GitHub).
+- **ETL and Data Pipelines**: Hands-on practice with data engineering concepts using Airflow, Snowflake, and DBT.
+
+## 📈 Skills
+
+- **Languages**: Python, SQL
+- **Data Visualization**: Power BI, Tableau
+- **Cloud**: Azure (learning in progress)
+- **Databases**: PostgreSQL, MySQL
+- **Version Control**: Git, GitHub
+
+## 📫 Get In Touch
+
+- [LinkedIn](https://linkedin.com/in/lmahial)
+- [Twitter](https://x.com/ML_0510/)
+- [Discord](.d_coy)
+- [Portfolio]() (In progress)
+
+I’m always open to collaboration and learning opportunities. Feel free to reach out!
+###
+
+<h2 align="left">I code with</h2>
+
+###
+## 🛠️ Tools & Technologies
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/>
+
+<!-- Excel, Power BI, and Tableau do not have icons on DevIcons, so we will use other sources -->
+
+<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40" height="40"/> 
+</div>
   
-
--  🔨 I’m currently working on DA Projects  
-
-- 🌱 I’m currently learning PowerBI and Azure    
-
-- ❓ Ask me about anything related to Data technologies.    
-
-- ⚡ Fun fact: I have OCD in keeping things Organized    
-
-<br/>   
-
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/linkedin.com/in/lmahial" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/lmdata10" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/ML_0510
-" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>   
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-### DA  
-<!-- <div align="center">  -->
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="25" /></a>  
-<!-- </div> -->
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>
-
+###
