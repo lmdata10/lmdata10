@@ -1,6 +1,6 @@
 # Hello! I'm LM👋
 
-### Change Management | Aspiring Data Analyst | Passionate About Data-Driven Decisions
+### Change Management SME | Aspiring Data Analyst | Passionate About Data-Driven Decisions
 
 I'm a data enthusiast currently preparing for data analyst roles, with a long-term goal to transition into data engineering. My mission is to help organizations make impactful, data-driven decisions by analyzing, processing, and delivering insights from data.
 
@@ -8,16 +8,14 @@ I'm a data enthusiast currently preparing for data analyst roles, with a long-te
 
 - **Languages**: Python, SQL
 - **Data Visualization**: Power BI, Tableau
-- **Cloud**: Azure (learning in progress)
 - **Databases**: PostgreSQL, MySQL
 - **Version Control**: Git, GitHub
+- **Cloud**: Azure (learning in progress)
+
 
 ## 📫 Get In Touch
 
-- [LinkedIn](https://linkedin.com/in/lmahial)
-- [Twitter](https://x.com/ML_0510/)
-- [Discord](.d_coy)
-- [Portfolio]() (In progress)
+- [LinkedIn](https://linkedin.com/in/lmahial) | [Twitter](https://x.com/ML_0510/) | [Discord](.d_coy) | [Portfolio]() (In progress)
 
 I’m always open to collaboration and learning opportunities. Feel free to reach out!
 
@@ -47,13 +45,11 @@ I’m always open to collaboration and learning opportunities. Feel free to reac
 
 - **Data Engineering**: Transition into data engineering, focusing on designing, building, and maintaining data pipelines.
 - **Cloud Technologies**: Gain in-depth knowledge of cloud platforms and how they integrate with data workflows.
-- **Big Data Tools**: Learn tools like Apache Spark, Kafka, and Hadoop to handle large-scale data.
 - **Automation**: Automate data extraction, transformation, and loading (ETL) processes.
 
 ## 📚 What I'm Learning
 
 - **Data Analysis**: Advanced Excel, Python (Pandas, NumPy), and SQL.
 - **Cloud Basics**: AWS and Azure fundamentals, Linux, and version control (Git/GitHub).
-- **ETL and Data Pipelines**: Hands-on practice with data engineering concepts using Airflow, Snowflake, and DBT.
 
 ###
