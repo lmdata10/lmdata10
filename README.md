@@ -18,7 +18,7 @@ To empower organizations to make impactful, data-driven decisions by leveraging 
 
 ## 📫 Get In Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lmahial/)
-[![Blog](https://img.shields.io/badge/Hasnode-Blog-4B8BBE?style=for-the-badge&logo=hasnode&logoColor=white)](https://tddbylm.hashnode.dev/)
+[![Blog](https://img.shields.io/badge/Hashnode-4B8BBE?style=for-the-badge&logo=hasnode&logoColor=white)](https://tddbylm.hashnode.dev/)
 
 I’m always open to collaboration and learning opportunities. Feel free to reach out!
 
@@ -30,10 +30,14 @@ I’m always open to collaboration and learning opportunities. Feel free to reac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40"/> <!-- Updated Power BI icon -->
+  <a href="https://icons8.com/icons/set/power-bi" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40" alt="Power BI Icon"/> <!-- Power BI icon -->
+  </a>
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/git.png" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/000000/github.png" width="40" height="40"/> <!-- Updated GitHub icon -->
+  <a href="https://icons8.com/icons/set/github" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/github.png" width="40" height="40" alt="GitHub Icon"/> <!-- GitHub icon -->
+  </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/> 
