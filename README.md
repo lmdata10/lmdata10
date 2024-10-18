@@ -30,10 +30,10 @@ I’m always open to collaboration and learning opportunities. Feel free to reac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40"/> <!-- Updated Power BI icon -->
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/git.png" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/000000/github-2.png" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/48/000000/github.png" width="40" height="40"/> <!-- Updated GitHub icon -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/> 
