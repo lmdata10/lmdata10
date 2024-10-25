@@ -1,9 +1,13 @@
 # Hello! I'm LM 👋
 
-Currently, I’m working as a Subject Matter Expert (SME) for the **Splunk Cloud Change Management Team**. With a growing passion for **data science** and **machine learning** in our increasingly data-driven world, I'm focused on upskilling and evolving my career. My long-term goal? Transition into the ML landscape!
+🌟 Welcome to my corner of the data universe! 🌟
 
-🌟 **Mission:**  
-To empower organizations to make impactful, data-driven decisions by leveraging advanced data analysis techniques and integrating machine learning and artificial intelligence. My goal is to transform raw data into actionable insights, fostering innovation and strategic growth through informed decision-making.
+I’m currently working as a **Subject Matter Expert (SME)** for the **Splunk Cloud Change Management Team**. With a growing passion for **data science** and **machine learning**, I'm on a mission to upskill and evolve my career. My long-term goal? **To make waves in the ML landscape!**
+
+---
+
+## 🚀 My Mission
+To empower organizations to make impactful, data-driven decisions by leveraging advanced data analysis techniques and integrating machine learning and artificial intelligence. I strive to transform raw data into actionable insights, fostering innovation and strategic growth through informed decision-making.
 
 ---
 
@@ -16,32 +20,18 @@ To empower organizations to make impactful, data-driven decisions by leveraging 
 
 ---
 
-## 📫 Get In Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lmahial/)
-[![Blog](https://img.shields.io/badge/Hashnode-4B8BBE?style=for-the-badge&logo=hasnode&logoColor=white)](https://tddbylm.hashnode.dev/)
-
-I’m always open to collaboration and learning opportunities. Feel free to reach out!
-
----
-
 ## 🛠️ Tools & Technologies
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40" height="40"/> 
-  <a href="https://icons8.com/icons/set/power-bi" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40" alt="Power BI Icon"/> <!-- Power BI icon -->
-  </a>
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/000000/git.png" width="40" height="40"/> 
-  <a href="https://icons8.com/icons/set/github" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/github.png" width="40" height="40" alt="GitHub Icon"/> <!-- GitHub icon -->
-  </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/> 
-</div>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Power BI](https://img.shields.io/badge/Power_BI-F25028?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 
 ---
 
@@ -53,15 +43,23 @@ I’m always open to collaboration and learning opportunities. Feel free to reac
 
 ---
 
-## 🚀 My Future Goals
-- **AI Engineering:** Transition into AI engineering, focusing on designing, building, and introducing next-gen AI models.
+## 🎯 Future Goals
+- **AI Engineering:** Transition into AI engineering, focusing on designing, building, and deploying next-gen AI models.
 - **Cloud Technologies:** Gain in-depth knowledge of cloud platforms and how they integrate with data workflows.
 
 ---
 
-## 📚 What I'm Learning
+## 📚 Current Learning Journey
 - **Data Analysis:** Statistics, Python (Pandas, NumPy), and SQL.
 - **Cloud Basics:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) and ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) fundamentals, Linux, and version control (Git/GitHub).
 
 ---
 
+## 📫 Let’s Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lmahial/)
+[![Blog](https://img.shields.io/badge/Hashnode-4B8BBE?style=for-the-badge&logo=hashnode&logoColor=white)](https://tddbylm.hashnode.dev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lm.datadev.10@gmail.com)
+
+I’m always open to collaboration and learning opportunities. **Feel free to reach out!**
+
+---
