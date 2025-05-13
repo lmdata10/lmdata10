@@ -1,81 +1,58 @@
-# Hello! I'm LM 👋
+![Header](./header-image.png)
 
-🌟 Welcome to my corner of the data universe! 🌟
+<h1>👋 Hi, I'm Limesh Mahial!</h1>  
+<h3> Analytics Engineer | Data & AI | Generative AI</h3>  
 
-I’m currently working as a **Subject Matter Expert (SME)** for the **Splunk Cloud Change Management Team**. With a growing passion for **data science** and **machine learning**, I'm on a mission to upskill and evolve my career. My long-term goal? **To make waves in the ML landscape!**
-
----
-
-## 🚀 My Mission
-To empower organizations to make impactful, data-driven decisions by leveraging advanced data analysis techniques and integrating machine learning and artificial intelligence. I strive to transform raw data into actionable insights, fostering innovation and strategic growth through informed decision-making.
-
----
-
-## 📈 Skills
-- **Languages:** Python, SQL
-- **Data Visualization:** Power BI, Tableau
-- **Databases:** PostgreSQL, MySQL
-- **Version Control:** Git, GitHub
-- **Cloud:** Azure (learning in progress)
+🌱 Transitioning into **Banking Domain** as a Data Analyst from a Cloud Support Operations background  
+📊 Currently, **SME** at Splunk's Cloud Support operations and Change Management Teams  
+📈 Exploring **Generative AI, MLOps & Data Engineering**  
+🎯 Looking for opportunities as **Data Analyst / Data Engineer / AI Engineer** 
 
 ---
 
-## 🛠️ Tools & Technologies
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2BD1D?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+## 🔍 What I Do
+
+✅ **Data Analysis & Business Insights** – Clean, transform, and analyze structured data to support decision-making across business functions  
+✅ **SQL for Data Exploration** – Write performant SQL queries for exploratory, ad hoc, and production-level analysis across relational databases  
+✅ **Process Optimization** – Leverage analytics to automate manual tasks, streamline operations, and enhance reporting efficiency  
+✅ **Applied Data Science** – Use Python, Pandas, and Scikit-learn to extract insights and build lightweight predictive models  
+✅ **Foundational Data Engineering** – Build scalable data pipelines, design ETL workflows, and work with data warehouses (e.g., Snowflake, SQL Server)  
+✅ **MLOps & Cloud Deployment** – Experimenting with deploying ML models using **Azure, MLflow**, and basic CI/CD practices
 
 ---
 
-## 🔭 What I'm Working On
-- **Data Analytics:** Enhancing my skills in data analysis using tools like Python, SQL, and Excel.
-- **Visualization:** Learning how to present data insights using Power BI and Tableau.
-- **Cloud Foundations:** Exploring the basics of cloud platforms (AWS, Azure) and tools (Docker, Kubernetes) to scale data infrastructure.
-- **Python and SQL:** Improving my Python scripting and SQL query optimization skills for more efficient data processing.
+## 💼 Tech Stack  
+
+### 🖥️ Programming & Scripting  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)  
+
+### 🤖 Data Science & ML  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+
+### 🛠️ Big Data & Data Engineering  
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)   ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)   ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)  ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)   ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)   ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-004CFF?style=flat&logo=microsoft&logoColor=white)
+
+### ☁️ Cloud & MLOps  
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)  ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+
+### 🧰 Other Tools  
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)  ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)   ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)   ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)   ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)   ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)   ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+
 
 ---
 
-## 🎯 Future Goals
-- **AI Engineering:** Transition into AI engineering, focusing on designing, building, and deploying next-gen AI models.
-- **Cloud Technologies:** Gain in-depth knowledge of cloud platforms and how they integrate with data workflows.
+## 🚀 Featured Projects  
+
+| 📌 Project Name | 📝 Description | 🔗 Link |
+|----------------|----------------|---------|
+| **📊 TBD** | Viz | [Repo](#) |
+
+📌 **More Projects:** [GitHub Repositories](https://github.com/lmdata10?tab=repositories)  
 
 ---
 
-## 📚 Current Learning Journey
-- **Data Analysis:**
-  
-  [![Statistics](https://img.shields.io/badge/Statistics-0072B1?style=for-the-badge&logo=statistics&logoColor=white)](https://en.wikipedia.org/wiki/Statistics) 
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
-  [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) 
-  [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) 
-  [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)](https://www.sql.org/).
-- **Cloud Fundamentals**
-  
-  [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-  [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-- **Scripting**
-  
-  [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-- **Version Control:**
-  
-  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+## 📬 Connect with Me  
 
----
-
-## 📫 Let’s Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lmahial/)
-[![Blog](https://img.shields.io/badge/Hashnode-4B8BBE?style=for-the-badge&logo=hashnode&logoColor=white)](https://tddbylm.hashnode.dev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lm.datadev.10@gmail.com)
-
-I’m always open to collaboration and learning opportunities. **Feel free to reach out!**
-
----
+📧 **Email:** limeshmahial@gmail.com  
+📌 **LinkedIn:** [Limesh Mahial](https://www.linkedin.com/in/lmahial/)  
+📁 **Portfolio Website:** [LM's Data Portfolio](https://rb.gy/uu25ao)
