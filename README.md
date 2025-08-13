@@ -1,78 +1,73 @@
-![Header](./header-image.png)
+![Header](./lm-banner.png)
 
 <h1>👋 Hi, I'm Limesh Mahial!</h1>  
-<h3> Analytics Engineer | Data & AI | Generative AI</h3>  
+<h3> Analytics Engineer | Data & AI </h3>
 
-🌱 Transitioning into **Banking Domain** as a Data Analyst from a Cloud Support Operations background  
-📊 Currently, **SME** at Splunk's Cloud Support operations and Change Management Teams  
-📈 Exploring **Generative AI, MLOps & Data Engineering**  
-🎯 Looking for opportunities as **Data Analyst / Data Engineer / AI Engineer** 
+> 💡 From **Cloud Support** → **Data Engineering** → **AI/ML**
 
----
-
-## 🔍 What I Do
-
-✅ **Data Analysis & Business Insights** – Clean, transform, and analyze structured data to support decision-making across business functions  
-✅ **SQL for Data Exploration** – Write performant SQL queries for exploratory, ad hoc, and production-level analysis across relational databases  
-✅ **Process Optimization** – Leverage analytics to automate manual tasks, streamline operations, and enhance reporting efficiency  
-✅ **Applied Data Science** – Use Python, Pandas, and Scikit-learn to extract insights and build lightweight predictive models  
-✅ **Foundational Data Engineering** – Build scalable data pipelines, design ETL workflows, and work with data warehouses (e.g., Snowflake, SQL Server)  
-✅ **MLOps & Cloud Deployment** – Experimenting with deploying ML models using **Azure, MLflow**, and basic CI/CD practices
+I specialize in bridging raw data to actionable insights and building scalable data solutions that deliver real business value.
+Currently transitioning into the Banking & FinTech domain, bringing 5+ years of Cloud Ops & Change Management expertise into advanced Data & AI projects.
 
 ---
 
-## 💼 Tech Stack  
+## Current Focus
+- **Databricks Data Engineering** – PySpark, Delta Lake, Delta Live Tables  
+- **ML & AI** – FastAPI, PyTorch, Hugging Face
+- **MLOps** – MLflow, CI/CD, Azure deployments
+- **Agentic AI** - LangChain, LangGraph, Crew AI, Agno, Loveable, n8n, Autogen
+- **Banking Analytics** – Risk, Fraud, and Customer Insights 
 
-### 🖥️ Programming & Scripting  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)   
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)   
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)  
+---
 
-### 🤖 Data Science & ML  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)   
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)   
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)   
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+## What I Bring to the Table
 
-### 🛠️ Big Data & Data Engineering  
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)   
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)   
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)   
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)  
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)   
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)   
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-004CFF?style=flat&logo=microsoft&logoColor=white)
+- ✅ Data Analysis & Insights – Clean, transform, and analyze structured datasets to guide business decisions
+- ✅ SQL Mastery – Performant queries, CTEs, Window Functions across large relational databases
+- ✅ Data Engineering – Build ETL/ELT pipelines, optimize data storage (Parquet, Delta), cloud integrations (Azure Data Lake)
+- ✅ Applied Machine Learning – Predictive modelling with Python, Pandas, Scikit-learn
+- ✅ MLOps Foundations – Experiment tracking, deployment workflows, monitoring in production
+- ✅ Process Optimization – Automate manual tasks and streamline reporting for faster decision cycles
+---
 
-### ☁️ Cloud & MLOps  
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)  
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+## Tech Stack  
 
-### 🧰 Other Tools  
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)  
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)   
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)   
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)   
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)  
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)   
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)   
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+#### Programming & Scripting  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+
+#### Data Science & ML  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+#### Databases & Data Engineering  
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)  ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)  
+
+#### Cloud & MLOps  
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)  
+
+#### Other Tools  
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-4B47BF?style=for-the-badge&logo=microsoft&logoColor=white) ![Sheets](https://img.shields.io/badge/Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)  ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)  ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
 
 
 ---
 
-## 🚀 Featured Projects  
+## 📌 Featured Projects  
 
-| 📌 Project Name | 📝 Description | 🔗 Link |
+| Project Name | 📝 Description | 🔗 Link |
 |----------------|----------------|---------|
 | **📊 TBD** | Viz | [Repo](#) |
 
-📌 **More Projects:** [GitHub Repositories](https://github.com/lmdata10?tab=repositories)  
+**More Projects:** [GitHub Repositories](https://github.com/lmdata10?tab=repositories)  
+
+---
+
+## Open to Roles
+
+- Data Analyst
+- Data Engineer (Azure Databricks)
+- Data Scientist / ML Engineer
+- Banking & FinTech Data Roles
 
 ---
 
 ## 📬 Connect with Me  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:limeshmahial@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lmahial/) [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
-📧 **Email:** limeshmahial@gmail.com  
-📌 **LinkedIn:** [Limesh Mahial](https://www.linkedin.com/in/lmahial/)  
-📁 **Portfolio Website:** [LM's Data Portfolio](https://rb.gy/uu25ao)
