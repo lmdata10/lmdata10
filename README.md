@@ -1,7 +1,3 @@
-<!-- Banner -->
-<div align="center">
-  <img src="./lm-banner.png" alt="LM Banner" width="100%" />
-</div>
 
 <div align="center">
 
