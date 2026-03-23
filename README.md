@@ -1,9 +1,7 @@
 <!-- Banner -->
 <div align="center">
-  <img src="./00github-header-banner.png" alt="LM Banner" width="100%" />
+  <img src="./lm-banner.png" alt="LM Banner" width="100%" />
 </div>
-
-<br/>
 
 <div align="center">
 
@@ -34,7 +32,7 @@ Now I'm formalizing that operational experience into a technical career. I'm act
 
 ## Current Role — What I Actually Do
 
-> **L2 Cloud Change Management SME** · Splunk Cloud (outsourced contract)
+> **Cloud Change Management SME** · Splunk Cloud (outsourced contract)
 
 | Area | What this means in practice |
 |---|---|
@@ -65,7 +63,7 @@ Now I'm formalizing that operational experience into a technical career. I'm act
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=flat&logo=github&logoColor=white)
-
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-0078D4?style=flat&logo=microsoft&logoColor=white)
 ---
 
 ## Projects
