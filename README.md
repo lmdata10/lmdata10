@@ -64,6 +64,19 @@ Now I'm formalizing that operational experience into a technical career. I'm act
 
 ## Projects
 
+### Zero to One — Infrastructure Upskill Lab
+> Structured, session-by-session upskill from Cloud Operations into 
+> SysAdmin and Cloud Engineering. Raw session logs, real errors, actual 
+> fixes. Nothing polished for appearances.
+
+- **Current:** Block 1 — Git & GitHub (Topics 1–9 complete)
+- **Stack:** Git, Linux CLI, Bash, Python, Networking, Docker, 
+  Windows Server
+- **Cert targets:** AZ-104, AWS SAA, RHCSA
+- Every session logged. Errors included. Commit history is the timeline.
+
+[View repo →](https://github.com/lmdata10/zero-to-one-lm-growth-lab)
+
 ### Active Directory Home Lab
 > Hands-on Windows Server 2025 environment built to practice real sysadmin tasks — not a tutorial follow-along, but a working lab I actively use to break and fix things.
 
